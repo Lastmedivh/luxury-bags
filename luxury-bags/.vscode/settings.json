@@ -14,5 +14,13 @@
       "fileMatch": ["components.json"],
       "url": "https://ui.shadcn.com/schema.json"
     }
-  ]
+  ],
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.validProperties": [],
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.includeLanguages": {
+    "css": "css"
+  }
 }
